@@ -6,10 +6,14 @@ Right now, as a start, I’m focused on learning Mobile development with Kotlin 
 
 I still have a long way to go, and there’s so much more to learn, but I’m excited about the process. Every challenge is a step forward, and I believe that consistent effort leads to real progress.
 
-What I’m Working On
+What I’m Working On:
+
 Learning the fundamentals of mobile app development and building small projects
+
 Exploring Unity and C# to understand game mechanics and interaction
+
 Experimenting with AI tools to improve problem-solving and development speed
+
 I’d love to connect with others in tech, whether you’re just starting out like me or have experience to share. Learning from different perspectives and gaining new experiences is what makes this journey exciting.
 
 Connect With Me
