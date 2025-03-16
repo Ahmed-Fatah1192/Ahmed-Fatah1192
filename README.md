@@ -13,6 +13,9 @@ I’d love to connect with others in tech, whether you’re just starting out li
 
 Connect With Me
 LinkedIn: [https://www.linkedin.com/in/ahmedaltegany-ahmed-887b5220a/]
+
 Email: [Ahmedfatah1192@gmail.com]
+
 Portfolio: Coming soon
+
 If you're interested in mobile development, game design, or technology in general, I’d love to connect.
