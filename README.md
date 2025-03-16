@@ -2,7 +2,7 @@ Hello
 
 I’m Ahmed, and I’m just starting my journey into software development. My background is in civil engineering, but I’ve always been drawn to building things in a way that goes beyond the physical world. That curiosity led me to programming, where I’m now learning how to develop mobile applications and create games from scratch.
 
-Right now, as a start, I’m focused on learning Android development with Kotlin and React Native, while also exploring game development with Unity and C#. I’m also interested in prompt engineering and how AI can help improve coding and creativity.
+Right now, as a start, I’m focused on learning Mobile development with Kotlin and React Native, while also exploring mobile game development with Unity and C#. I’m also interested in prompt engineering and how AI can help improve coding and creativity.
 
 I still have a long way to go, and there’s so much more to learn, but I’m excited about the process. Every challenge is a step forward, and I believe that consistent effort leads to real progress.
 
